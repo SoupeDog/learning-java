@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example_CompletebleFuture user template template
+### Example_CompletebleFuture user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
